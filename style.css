@@ -1,0 +1,30 @@
+
+.header{
+  background-color: rgba(255, 154, 4, 0.63);
+  border:solid;
+}
+.menu{
+  margin-left: 500px;
+  font-family : cursive;
+}
+.bodyImage{
+  background-color: rgb(176, 255, 96);
+  border:solid;
+  font-family : cursive;
+}
+
+.camel{
+    border : solid;
+    background-color: rgb(149, 204, 236);
+    font-family : cursive;
+  }
+  .teddy{
+    border : solid;
+    background-color: rgb(149, 204, 236);
+    font-family : cursive;
+  }
+  .cicada{
+    border : solid;
+    background-color: rgb(149, 204, 236);
+    font-family : cursive;
+  }
